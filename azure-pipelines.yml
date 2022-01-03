@@ -10,11 +10,11 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: '<Name of your webapp>'
-  serviceConnection: '<Name of your webARM Service connection>'
-  azureSubscriptionId: '<Azure subscriptionId>'
-  loadTestResource: '<Name of your load test resource>'
-  loadTestResourceGroup: '<Name of your load test resource group>'
+  webAppName: 'cmwcdtloadtestdemoapp'
+  serviceConnection: 'VSEnterprise-CMWMS'
+  azureSubscriptionId: '225c54ba-5493-4ab0-9cf1-5f47ce03e3ef'
+  loadTestResource: 'cmwcdtloadtesttutorial'
+  loadTestResourceGroup: 'rg-cdt-loadtestdemo'
   location: 'EAST US'
 
 
