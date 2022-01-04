@@ -1,6 +1,7 @@
 {
   "name": "nodejs-webapp",
   "version": "0.0.0",
+  "private": "true",
   "description": "nodejs-webapp",
   "scripts": {
     "start": "node server.js"
